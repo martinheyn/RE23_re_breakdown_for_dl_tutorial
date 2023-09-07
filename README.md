@@ -2,7 +2,7 @@
 This repository contains material presented and discussed during the tutorial Requirements Analysis and Decomposition for Distributed Systems based on Deep Learning at the RE'23 conference Hannover, Germany
 
 # Presentations and discussions
-We will post the presentations and discussion from the tutorial here.
+- Available: https://github.com/martinheyn/RE23_re_breakdown_for_dl_tutorial/blob/main/20230824_Architecture%20Framework%20RE%20Tutorial.pdf
 
 # Papers cited and discussed during the tutorial
 - H.-M. Heyn, E. Knauss, and P. Pelliccione, “A compositional approach to creating architecture frameworks with an application to distributed ai systems,” Systems and Software (JSS), vol. 198, 2023.
